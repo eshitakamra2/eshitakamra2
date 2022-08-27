@@ -1,4 +1,4 @@
-### Hi there 👋 I'am Eshita Kamra.
+### Hi there 👋 I'm Eshita Kamra.
 - 🔭 I’m currently working on web development.
 - 🌱 I’m currently learning Node.js.
 - 👯 I’m looking to collaborate on web development projects.
